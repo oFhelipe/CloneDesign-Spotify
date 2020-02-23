@@ -14,7 +14,7 @@ O projeto desenvoldido foi um clone design do Spotify de uma conta recém criada
 
 # ⚙️Como utilizar este projeto?
 1. Faça o download do repositorio
-2. Entre na pasta devradar pelo cmd
+2. Entre na pasta pelo cmd
 
 ## Frontend
 #### 📱Mobile

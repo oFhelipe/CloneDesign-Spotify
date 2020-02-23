@@ -25,6 +25,20 @@ Com isso irá abrir em seu navegador uma tela do expo com un QR code
 
 Usando o aplicativo da expo em seu celular, escaneie o código, assim  irá abrir em seu celular
 
+# 🖼️Foto(s)/Gif(s)
+
+ ## Tela de inicio
+<img src="https://user-images.githubusercontent.com/59922096/75103250-fa5d4400-55d6-11ea-8b7e-de36294de609.png" width="300">
+
+ ## Tela de home e busca
+<img src="https://user-images.githubusercontent.com/59922096/75103070-4f4b8b00-55d4-11ea-97e3-411e28163de7.gif" width="300">
+
+## Tela da biblioteca
+<img src="https://user-images.githubusercontent.com/59922096/75103133-58892780-55d5-11ea-9945-0884db715e19.gif" width="300">
+
+## Tela de premium
+<img src="https://user-images.githubusercontent.com/59922096/75103212-54a9d500-55d6-11ea-934e-b17ee9fbc06c.gif" width="300">
+
 # 👨‍💻Desenvolvedor
 Desenvolvido por [Fhelipe Augusto Rodrigues](https://www.linkedin.com/in/fhelipe-rodrigues-b57a52196/)
 

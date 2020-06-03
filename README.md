@@ -1,4 +1,10 @@
 # CloneDesign-Spotify
+![project_language](https://img.shields.io/badge/language-javascript-f7d84a)
+![mobile](https://img.shields.io/badge/mobile-react%20native-f6a431)
+![license](https://img.shields.io/badge/license-MIT-green)
+![package_manager](https://img.shields.io/badge/package%20manager-yarn-informational)
+![tool](https://img.shields.io/badge/tool-expo-f76f4a)
+
 Design clone de uma conta recém criada no Spotify 
 
 <img src="https://user-images.githubusercontent.com/59922096/75101741-59638e80-55c0-11ea-9aed-d3c5a756d432.jpg" width="1000">
